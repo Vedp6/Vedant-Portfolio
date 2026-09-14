@@ -94,7 +94,7 @@ const ProjectStats = ({ project }) => {
             {featuresCount}
           </div>
           <div className="text-[10px] md:text-xs text-gray-400">
-            Fitur Utama
+            Total Features
           </div>
         </div>
       </div>
