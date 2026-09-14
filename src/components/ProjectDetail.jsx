@@ -156,7 +156,7 @@ const ProjectDetails = () => {
     );
   }
 
-  const projectUrl = `https://Vedant.com/project/${toSlug(project.Title)}`;
+  const projectUrl = `https://my-portfolio-eight-lyart-90.vercel.app/project/${toSlug(project.Title)}`;
 
   return (
     <>
@@ -193,7 +193,7 @@ const ProjectDetails = () => {
             "author": {
               "@type": "Person",
               "name": "Vedant Patil",
-              "url": "https://Vedant.com"
+              "url": "https://my-portfolio-eight-lyart-90.vercel.app"
             }
           }
         `}</script>
